@@ -48,7 +48,7 @@ A tool that reads resumes and job descriptions, then scores and ranks resumes ba
 The app does this in order:
 1. Reads the resume files
 2. Cleans and extracts text
-3. Finds skills and information
+3. Finds skills and information using built-in ATS
 4. Compares with the job description
 5. Scores each resume
 6. Ranks them from best to worst match
